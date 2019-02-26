@@ -1,0 +1,36 @@
+.main-block {
+	background-color: black;
+	height: 600px;
+	width: 1120px;
+	margin-left: 110px;
+	margin-top: 40px;
+}
+.login-form {
+	background-color: rgb(108, 252, 13);
+	height: 500px;
+	width: 500px;
+	margin-left: 40px;
+	display: inline-block;
+
+}
+.signup-form {
+	background-color: rgb(108, 252, 13);
+	height: 500px;
+	width: 500px;
+	margin-left: 40px;
+    display: inline-block;
+}
+.main-title {
+	text-align: center;
+}
+.cantrol-name {
+	
+}
+.form-cantrol {
+	border-radius: 4px;
+	margin-left: 5px;
+}
+.form-cantrol:hover {
+	border-color: aqua;
+
+}
